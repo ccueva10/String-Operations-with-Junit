@@ -1,7 +1,7 @@
 public class StringUtils {
 
 	public static String concatenate(String str1, String str2) {
-    if (str1 == null) {
+    		if (str1 == null) {
 			str1 = "";
 		}
 		if (str2 == null) {
