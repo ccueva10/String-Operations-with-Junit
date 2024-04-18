@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="DrakeJenkins/|Henok Demisse/|Harminder Dhami/" kind="src" path=""/>
+	<classpathentry kind="src" path="DrakeJenkins"/>
+	<classpathentry kind="src" path="Harminder Dhami"/>
+	<classpathentry kind="src" path="Henok Demisse"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
