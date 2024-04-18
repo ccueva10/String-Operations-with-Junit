@@ -2,7 +2,7 @@ package stringutils;
 
 import java.util.Scanner;
 
-public class StringUtils {
+public class Carlos_Cueva_StringUtils {
 	public static String concatenate(String str1, String str2) {
 		return str1 + str2;
 	}

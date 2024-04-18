@@ -4,29 +4,29 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class StringUtilsTest {
+public class Carlos_Cueva_StringUtilsTest {
 
 	@Test
 	public void testConcatenate() {
-		String result = StringUtils.concatenate("Hello", "World");
+		String result = Carlos_Cueva_StringUtils.concatenate("Hello", "World");
 		assertEquals("HelloWorld", result);
 	}
 
 	@Test
 	public void testReverse() {
-		String result = StringUtils.reverse("Hello");
+		String result = Carlos_Cueva_StringUtils.reverse("Hello");
 		assertEquals("olleH", result);
 	}
 
 	@Test
 	public void testToUpperCase() {
-		String result = StringUtils.toUpperCase("hello");
+		String result = Carlos_Cueva_StringUtils.toUpperCase("hello");
 		assertEquals("HELLO", result);
 	}
 
 	@Test
 	public void testTrim() {
-		String result = StringUtils.trim("  Hello  ");
+		String result = Carlos_Cueva_StringUtils.trim("  Hello  ");
 		assertEquals("Hello", result);
 	}
 }
