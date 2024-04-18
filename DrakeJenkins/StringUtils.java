@@ -42,9 +42,9 @@ public class StringUtils {
 
 		System.out.println("Concatenated: " + concatenate(str1, str2));
 
-		System.out.println("Reversed: " + reverse(str3));
+		System.out.println("Reversed: " + reverse(str1));
 
-		System.out.println("Uppercase: " + toUpper(str3));
+		System.out.println("Uppercase: " + toUpper(str1));
 
 		System.out.println("Trimmed: " + trim(str3));
 	}
