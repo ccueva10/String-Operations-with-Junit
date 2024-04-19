@@ -50,6 +50,9 @@ After executing the test cases, the expected results are:
 - `testToUpperCase`: "HELLO"
 - `testTrim`: "Hello"
 
+![Screenshot 2024-04-18 at 9 11 19 PM](https://github.com/ccueva10/String-Operations-with-Junit/assets/151315853/da98cf39-2aaa-4eed-9907-f9a1787b087a)
+
+
 ## Test Report
 
 ### Test Coverage
