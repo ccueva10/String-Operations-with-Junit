@@ -32,6 +32,9 @@ The main objectives of testing the StringUtils class are:
 
 ## Test Execution
 
+![Screenshot 2024-04-18 at 9 10 52 PM](https://github.com/ccueva10/String-Operations-with-Junit/assets/151315853/bb114db3-df18-4efa-a1f5-9012d72c698b)
+
+
 ### JUnit Test Execution
 
 1. Open the project in an IDE that supports JUnit (like IntelliJ IDEA or Eclipse).
